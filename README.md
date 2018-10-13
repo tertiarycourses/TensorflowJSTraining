@@ -1,7 +1,7 @@
 # Building Machine Learning Web Apps with Tensorflow.js
 ## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
-These are the exercise files used for [Building Machine Learning Web Apps with Tensorflow.jss](https://www.tertiarycourses.com.sg/machine-learning-web-apps-tensorflowjs.html) course. 
+These are the exercise files used for [Building Machine Learning Web Apps with Tensorflow.js](https://www.tertiarycourses.com.sg/machine-learning-web-apps-tensorflowjs.html) course. 
 
 The course outline can be found in 
 
